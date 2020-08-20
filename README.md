@@ -1,2 +1,5 @@
 # hello-world
-Intro to git
+
+Hi Programmers!
+
+Keller here, my favorite python features are list comprehensions, and lambdas.
